@@ -193,5 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-
-.kafka/bitnami/
+kafka/bitnami/
